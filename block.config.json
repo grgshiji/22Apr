@@ -3,8 +3,8 @@
   "type": "package",
   "blockId": "tKOKZ8jMvQDDA1VpVABso",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/22Apr.git",
+    "ssh": "git@github.com:grgshiji/22Apr.git",
     "branch": "block_22Apr"
   },
   "parentBlockIDs": [],
