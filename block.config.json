@@ -12,5 +12,13 @@
   "supportedAppblockVersions": [
     "1.0.0"
   ],
-  "repoType": "mono"
+  "repoType": "mono",
+  "dependencies": {
+    "22Apr_B1": {
+      "directory": "22Apr_B1"
+    },
+    "22Apr_B2": {
+      "directory": "22Apr_B2"
+    }
+  }
 }

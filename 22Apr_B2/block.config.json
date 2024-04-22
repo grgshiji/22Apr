@@ -1,0 +1,21 @@
+{
+  "blockId": "4jDnn1QqKS5vi-VhAU_p-",
+  "name": "22Apr_B2",
+  "type": "ui-container",
+  "source": {
+    "https": "https://github.com/grgshiji/22Apr.git",
+    "ssh": "git@github.com:grgshiji/22Apr.git",
+    "branch": "block_22Apr_B2"
+  },
+  "parentBlockIDs": [
+    "tKOKZ8jMvQDDA1VpVABso"
+  ],
+  "repoType": "mono",
+  "language": "js",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "npx webpack-dev-server",
+  "build": "npx webpack"
+}
