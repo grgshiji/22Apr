@@ -1,0 +1,16 @@
+{
+  "name": "22Apr",
+  "type": "package",
+  "blockId": "tKOKZ8jMvQDDA1VpVABso",
+  "source": {
+    "https": "https://github.com/grgshiji/22Apr.git",
+    "ssh": "git@github.com:grgshiji/22Apr.git",
+    "branch": "block_22Apr"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
